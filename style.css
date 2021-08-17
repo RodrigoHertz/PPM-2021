@@ -1,8 +1,20 @@
 h1 {
     color: red;
-    margin-top: 20px;
-    margin-bottom: 10px;
+    margin-top: 1rem;
     text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+input {
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+    font-size: large;
+}
+
+h1, p, input {
     font-family: 'Courier New', Courier, monospace;
-    border-bottom: 1px solid salmon;
 }
